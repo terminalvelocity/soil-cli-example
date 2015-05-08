@@ -1,5 +1,5 @@
 {
-  "name": "blog-cli",
+  "name": "blog-cli-js",
   "version": "0.1.0",
   "description": "Modern CLI sitting on node.js.",
   "main": "index.js",
