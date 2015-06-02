@@ -1,1 +1,1 @@
-exports = require('./package');
+module.exports = require('./lib/cli');

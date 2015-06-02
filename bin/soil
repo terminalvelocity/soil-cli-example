@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 
-process.title = 'Blog-Cli'
+process.title = 'Soil Cli'
 
 var resolve  = require('resolve');
 var basepath = process.cwd();
 
-resolve('blog-cli-js', {
+resolve('soil-cli-example', {
   basedir: basepath
 }, function(err, localCLI) {
 

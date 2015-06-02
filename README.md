@@ -1,8 +1,4 @@
-blog-cli-js
-===========
+Soil Cli Example
+=====
 
-The command line interface to compliment blog.js, written in node.js.
-
-```sh
-npm install -g blog-cli-js && blog
-```
+This is an example app/boilerplate for starting to build a CLI tool using [Soil Cli](https://github.com/terminalvelocity/soil-cli).
